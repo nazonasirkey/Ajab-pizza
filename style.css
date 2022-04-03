@@ -1,7 +1,3 @@
-*{
-    padding: 0%;
-    margin: 0%;
-}
 .nav {
     padding: auto;
     margin: 30px;
@@ -110,7 +106,7 @@
 }
 
 .center{
-    width: 1150px;
+    width: 1250px;
 }
 
 
@@ -137,11 +133,14 @@ label {
 
 #customer {
     display: none;
+    text-align: center;
 }
 
 #form1 {
-    width: 500px;
     text-align: center;
+    width: 150px;
+    display: inline;
+    
 }
 
 #bill {
@@ -164,8 +163,3 @@ footer {
 li {
     display: inline;
 }
-
-
-
-
-
