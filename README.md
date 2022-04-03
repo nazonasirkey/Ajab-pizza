@@ -11,7 +11,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is a project on Pizza-Hut where customers can easily make their orders and be delivered and their doorstep.</p>
+<p>This is a project on Pizza-shop where customers can easily make their orders and be delivered and their doorstep.</p>
 
 ## Installation
 
