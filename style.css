@@ -26,3 +26,144 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+#piza {
+    float: left;
+    width: 34.33%;
+    padding: 5px;
+    height: 280px;
+    margin-top: 30px;
+}
+
+#market {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+#menu{
+    text-align: center;
+    background-color: rgb(253, 253, 251);
+}
+
+.menu3{
+    float: left;
+    height: 200px;
+}
+
+.img1{
+    width: 500px;
+    height: 290px;
+}
+
+.card-title{
+    width: 1600px;
+}
+.card3{
+    height: 300px;
+    width: 350px;
+}
+.large{
+    height: 300px;
+    width: 360px;
+}
+
+.card4{
+    width: 300px;
+    text-align: center;
+    margin-left: 700px;
+    margin-left: 60px;
+    
+
+
+}
+
+.img2{
+    width: 360px;
+    height: 300px;
+    float: left;
+    
+}
+
+#contact {
+    background-color: black;
+    color: white;
+    height: 100px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+#btnT {
+    background-color: grey;
+    width: 200px;
+    height: fit-content;
+
+}
+
+#order-form {
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin: 9px;
+}
+
+.center{
+    width: 1150px;
+}
+
+
+#placingorder {
+    background-image: url("../Images/crusts.jpeg");
+}
+
+form {
+    text-align: left;
+    border-radius: 5px;
+    padding: 20px;
+    width: 80%;
+    margin-left: 25%;
+}
+
+#imgm {
+    width: 20px;
+    height: 20px;
+}
+
+label {
+    display: block;
+}
+
+#customer {
+    display: none;
+}
+
+#form1 {
+    width: 500px;
+    text-align: center;
+}
+
+#bill {
+    text-align: center;
+}
+
+#order {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+
+
+
+
+
