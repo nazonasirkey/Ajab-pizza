@@ -28,7 +28,7 @@
 
 ## LIVE LINK
 
-* [click live link] (https://github.com/nazonasirkey/Ajab-pizza)
+* [click live link] (https://nazonasirkey.github.io/Ajab-pizza/)
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
