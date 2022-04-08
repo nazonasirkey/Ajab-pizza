@@ -26,10 +26,10 @@
 
 #piza {
     float: left;
-    width: 34.33%;
+    width: 300px
     padding: 5px;
-    height: 281px;
-    margin-top: 30px;
+    height: 340px;
+    margin-top: 60px;
 }
 
 #market {
@@ -109,10 +109,6 @@
     width: 1250px;
 }
 
-
-#placingorder {
-    background-image: url("../Images/crusts.jpeg");
-}
 
 form {
     text-align: left;
